@@ -1,4 +1,5 @@
 langchain
+langchain_pinecone
 langchain_community
 python_dotenv
 replicate
